@@ -1,13 +1,13 @@
 NativeKonsol Sampel
 ===========
 
-Repositori ini berisi sampel [Android NDK][0] dengan integrasi Android Studio C ++ [C++ integration](https://www.youtube.com/watch?v=f7ihSQ44WO0&feature=youtu.be).
+Repositori ini berisi sampel [Android NDK][0] dengan Android Studio [C++ integrasi](https://www.youtube.com/watch?v=f7ihSQ44WO0&feature=youtu.be).
 
 Sampel-sampel ini menggunakan plugin [CMake Android plugin](https://developer.android.com/studio/projects/add-native-code.html) dengan dukungan C++.
 
 Sampel juga dapat dibangun dengan sistem bangunan lain:
 - untuk ndk-build dengan Android Studio, lihat direktori [other-builds/ndkbuild](https://github.com/googlesamples/android-ndk/tree/master/other-builds/ndkbuild)
-- untuk plugin gradle-eksperimental, lbelum berfungsi dengan header terpadu: gunakan versi NDK hingga r15 dan Android Studio hingga versi 2.3. Saat memulai proyek baru, silakan gunakan plugin CMake atau ndk-build.
+- untuk plugin gradle-experimental. Catat bahwa gradle-experimental plugin belum berfungsi dengan header terpadu: gunakan versi NDK hingga r15 dan Android Studio hingga versi 2.3. Saat memulai proyek baru, silakan gunakan plugin CMake atau ndk-build.
 
 Tambahan Android Studio sampel:    
 - [Google Play Game Samples dengan Android Studio](https://github.com/playgameservices/cpp-android-basic-samples)
