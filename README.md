@@ -10,7 +10,7 @@ Sampel juga dapat dibangun dengan sistem bangunan lain:
 - untuk plugin gradle-experimental, lihat direktori other-builds/experimental. Catat bahwa gradle-experimental plugin belum berfungsi dengan header terpadu: gunakan versi NDK hingga r15 dan Android Studio hingga versi 2.3. Saat memulai proyek baru, silakan gunakan plugin CMake atau ndk-build.
 
 Tambahan Android Studio sampel:    
-- [Google Play Game Samples dengan Android Studio](https://github.com/playgameservices/cpp-android-basic-samples)
+- [Google Play Game Sampel dengan Android Studio](https://github.com/playgameservices/cpp-android-basic-samples)
 - [Google Android Vulkan Panduan](https://github.com/googlesamples/android-vulkan-tutorials)
 - [Android Vulkan API Dasar Sampel](https://github.com/googlesamples/vulkan-basic-samples)
 - [Android Audio Kinerja Tinggi](https://github.com/googlesamples/android-audio-high-performance)	
